@@ -26,6 +26,12 @@ p,a{
   letter-spacing: 1px;
 }
 
+h1{
+  background-image: url('../images/logo.png');
+  background-repeat: no-repeat;
+  text-indent: -5000px;
+}
+
 nav{
   display: flex;
 }
@@ -40,6 +46,9 @@ nav div{
 }
 
 nav div a{
+  text-indent: 20px;
+  background-repeat: no-repeat;
+  background-image: url('../images/icon.png');
   float:right;
   font-weight: bold;
   top:35%;
