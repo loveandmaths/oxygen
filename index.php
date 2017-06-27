@@ -16,6 +16,8 @@
 	</head>
 	<!-- body -->
 	<body>
+		<video preload="yes" playsinline muted autoplay loop width="100%" height="auto" poster="assets/images/background.png" id="video-background" src="assets/video/background.mp4" type="video/mp4">
+		</video>
 		<!-- nav -->
 		<nav>
 			<header>
@@ -33,7 +35,6 @@
 				<a href="mailto:info@oxygenpc.com.au">info@oxygenpc.com.au</a>
 			</p>
 		</footer>
-		<video preload="yes" autoplay loop width="100%" height="auto" poster="assets/images/background.png" id="video-background" src="assets/video/background.mp4" type="video/mp4">
-		</video>
+
 	</body>
 	</html>
