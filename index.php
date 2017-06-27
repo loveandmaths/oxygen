@@ -12,6 +12,7 @@
 	<!-- css -->
 	<link rel="stylesheet" type="text/css" href="assets/fonts/fonts.css" />
 	<link rel="stylesheet" type="text/css" href="assets/stylesheets/style.css" />
+	<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 </head>
 <!-- body -->
 <body>
@@ -20,7 +21,7 @@
 		<header>
 			<h1>Oxygen</h1>
 		</header>
-		<div><a class="login" href="www.google.com" target="_blank">Login</a></div>
+		<div><a class="login" href="http://www.google.com" target="_blank">Login</a></div>
 	</nav>
 	<section class="coming-soon">
 		<p>Website coming soon</p>
